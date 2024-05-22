@@ -1,0 +1,55 @@
+body{
+    margin: 16px;
+}
+.nav{
+    background-color:beige;
+    padding: 6px;
+}
+.contenir{
+    background-color: rgb(167, 210, 188);
+    margin-bottom: 12px;
+    margin-top: 12px;
+    text-align: center;
+    border-radius: 20px;
+
+}
+.contenir h1{
+    margin-top: 20px;
+}
+img{
+    border-radius: 20px;
+    padding-bottom: 10px;
+}
+h1{
+    color: rgb(5, 5, 5);
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif
+}
+.elemant{
+    margin-left: 50px;
+}
+.skills{
+    color: blue;
+    
+}
+.skills h1{
+margin-bottom: -5px;
+
+}
+
+.project{
+    color: rgb(226, 43, 186);
+}
+.project h1{
+    margin-top: 12px;
+    margin-bottom: 12px;
+}
+
+.contact{
+    color: rgb(43, 82, 4);   
+}
+.contact:hover{
+    background-color: rgb(199, 129, 143);
+}
+.contact h1{
+    margin-bottom: -5px;
+}
